@@ -1,0 +1,13 @@
+* SPICE3 file created from Inv_v0.ext - technology: sky130A
+
+X0 a_9_n14# a_6_n7# a_0_n14# a_1_n22# sky130_fd_pr__nfet_01v8 ad=30 pd=22 as=35 ps=24 w=5 l=2
+X1 a_9_n1# a_6_n7# a_0_n1# w_n2_n3# sky130_fd_pr__pfet_01v8 ad=96 pd=44 as=112 ps=46 w=16 l=2
+C0 Vss a_0_n14# 3.71f
+C1 Vo a_9_n14# 2.55f
+C2 a_0_n1# Vdd 4.64f
+C3 Vo a_9_n1# 3.18f
+C4 w_n2_n3# Vdd 5.89f
+C5 Vss a_1_n22# 6.59f
+C6 Vo a_1_n22# 2.8f
+C7 a_6_n7# a_1_n22# 3.78f **FLOATING
+C8 w_n2_n3# a_1_n22# 65f **FLOATING
