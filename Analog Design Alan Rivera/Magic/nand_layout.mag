@@ -1,0 +1,52 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1702408154
+<< nwell >>
+rect 202 -178 708 -124
+rect 202 -396 844 -178
+rect 202 -456 708 -396
+<< mvpsubdiff >>
+rect 716 -628 798 -614
+rect 716 -686 740 -628
+rect 774 -686 798 -628
+rect 716 -700 798 -686
+<< mvnsubdiff >>
+rect 696 -258 778 -244
+rect 696 -316 720 -258
+rect 754 -316 778 -258
+rect 696 -330 778 -316
+<< mvpsubdiffcont >>
+rect 740 -686 774 -628
+<< mvnsubdiffcont >>
+rect 720 -316 754 -258
+<< poly >>
+rect 326 -498 426 -416
+rect 484 -498 584 -416
+rect 326 -806 426 -750
+rect 484 -806 584 -750
+<< locali >>
+rect 720 -258 754 -240
+rect 620 -308 720 -270
+rect 720 -334 754 -316
+rect 740 -628 774 -604
+rect 620 -678 740 -640
+rect 740 -710 774 -686
+<< metal1 >>
+rect 432 -108 478 -68
+rect 274 -148 636 -108
+rect 274 -204 320 -148
+rect 590 -196 636 -148
+rect 432 -432 478 -374
+rect 274 -476 708 -432
+rect 274 -536 320 -476
+rect 590 -768 636 -724
+use sky130_fd_pr__nfet_g5v0d10v5_42CDKK  sky130_fd_pr__nfet_g5v0d10v5_42CDKK_0
+timestamp 1702325438
+transform 1 0 455 0 1 -624
+box -187 -126 187 126
+use sky130_fd_pr__pfet_g5v0d10v5_UQ88Y8  sky130_fd_pr__pfet_g5v0d10v5_UQ88Y8_0
+timestamp 1702404798
+transform 1 0 455 0 1 -290
+box -253 -166 253 166
+<< end >>
